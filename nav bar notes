@@ -1,0 +1,27 @@
+center nav bar
+
+STICKY
+Animated from the rounded borders to the full screen rectangle when scrolling down
+
+
+FOR SEARCH
+
+<input type="text" placeholder="search">
+
+GRID W/1 COLUMN rounded border and then 
+NEST GRID W/5 COLUMNS all rounded borders  
+WHEN ALL ARE SELECTED it highlites the rounded border of each column w/ blue and has an exit button top right, when the exit button is clicked it returns to original state
+WHEN ALL ARE HOVERED it changes the background color of each to light blue
+
+
+Current city/town Search - SET CURRENT CITY OR TOWN - When clicked on it changes to the search for city
+Radius - 3 options 100k 200k 300k - when clicked it drops down to the 3 options 
+Checkin - calendar dates - when selected brings up calendar 
+Checkout - calendar dates - when selected brings up calendar
+Guests -adults  + "number" -
+	-children + "number" -
+	-rooms + "number" -
+	-apply button
+	-reset button
+
+
